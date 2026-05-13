@@ -6,6 +6,7 @@ employee satisfaction across 300 respondents, 7 departments, and 5 cities.
 
 ## Dashboard Preview
 ![Dashboard Preview](dashboard.png)
+![Dashboard Overview](dashboard_02.png)
 
 ## Key Insights
 - 📌 Overall Avg Satisfaction Score: 3.62 / 5
